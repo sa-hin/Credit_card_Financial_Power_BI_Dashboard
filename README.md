@@ -50,7 +50,7 @@ Variety of charts has been to visualize the data more effectively:
 #### 6.Treemap (Quarters, Gender, Card Category, Income Group):
 - Displays data categorized by quarters, gender, card category, and income group to highlight seasonal trends, segment contributions, and provide a holistic view of the data.
 
-#### ➡️ Functions Applied:
+## ➡️ Functions Applied:
 
 - CALCULATE: Modify the filter context of a calculation.
 - SUM: Aggregate numerical values for total calculations.
@@ -58,33 +58,34 @@ Variety of charts has been to visualize the data more effectively:
 - FILTER: Filter data based on specific conditions.
 - RELATED: Retrieve related data from another table.
 - IF: Perform conditional logic.
-DIVIDE: Perform division with error handling for division by zero.
-DATEADD: Add or subtract a specified number of days, months, quarters, or years from a date.
-DISTINCTCOUNT: Count the number of distinct values.
-AVERAGE: Calculate the average of numerical values.
+- DIVIDE: Perform division with error handling for division by zero.
+- DATEADD: Add or subtract a specified number of days, months, quarters, or years from a date.
+- DISTINCTCOUNT: Count the number of distinct values.
+- AVERAGE: Calculate the average of numerical values.
 
-➡️ Insights:
-Credit Card Customer Report 🔎
-Revenue Trends: Analysis shows revenue trends by week, highlighting seasonal variations and gender differences in spending.
-Demographics: Majority of high-revenue customers fall in the age groups of 30-40 and 40-50. Higher income levels are associated with higher revenues.
-Education Level: Graduates and post-graduates contribute significantly to the revenue.
-Credit Card Transaction Report 🔎
-Quarterly Performance: Q2 and Q3 show peak revenues and transaction volumes, indicating potential seasonal spikes.
-Customer Jobs: Businessmen and white-collar job holders are the highest contributors to revenue.
-Expenditure Types: Bills, entertainment, and fuel are the top expenditure types, indicating popular spending categories.
+## ➡️ Insights:
+### Credit Card Customer Report 🔎
+- Revenue Trends: Analysis shows revenue trends by week, highlighting seasonal variations and gender differences in spending.
+- Demographics: Majority of high-revenue customers fall in the age groups of 30-40 and 40-50. Higher income levels are associated with higher revenues.
+- Education Level: Graduates and post-graduates contribute significantly to the revenue.
+  
+### Credit Card Transaction Report 🔎
+- Quarterly Performance: Q2 and Q3 show peak revenues and transaction volumes, indicating potential seasonal spikes.
+- Customer Jobs: Businessmen and white-collar job holders are the highest contributors to revenue.
+- Expenditure Types: Bills, entertainment, and fuel are the top expenditure types, indicating popular spending categories.
 
-➡️ What I Learned:
+### ➡️ What I Learned:
 Throughout this project, I gained valuable insights and skills, including:
 
-1.Data Preparation:
+#### 1.Data Preparation:
 Improved my ability to clean and prepare datasets for analysis in Power BI.
-2.DAX Proficiency:
+#### 2.DAX Proficiency:
 Enhanced my understanding and application of DAX functions to create complex calculations and measures.
-3.Data Visualization:
+#### 3.Data Visualization:
 Developed my skills in designing and creating interactive and visually appealing dashboards.
-4.Analytical Thinking:
+#### 4.Analytical Thinking:
 Strengthened my ability to analyze and interpret data, drawing meaningful insights to inform decision-making.
-5.Power BI Features:
+#### 5.Power BI Features:
 Gained a deeper understanding of various Power BI features, including slicers, filters, and drill-through functionalities.
-6.Project Management:
+#### 6.Project Management:
 Learned to manage and document a data visualization project, ensuring clarity and reproducibility.
