@@ -31,7 +31,7 @@ The reports provide insights into various metrics, such as total revenue, intere
 
 - Card Category analysis with Sum of Revenue, Interest Earned, and Annual Fees.
 
-## Report View:
+## Report Screenshots:
 ![Screenshot 2024-06-29 190750](https://github.com/user-attachments/assets/2b1fdb14-6381-4dca-8f9f-2d8969cfc56e)
 
 ![Screenshot 2024-07-28 193809](https://github.com/user-attachments/assets/44e4b481-bd97-42b8-a70b-8ded437c61ba)
