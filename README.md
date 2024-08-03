@@ -29,7 +29,7 @@ The reports provide insights into various metrics, such as total revenue, intere
 
 - Age Group distribution by Gender.
 
-- Card Category analysis with Sum of Revenue, Interest Earned, and Annual Fees.
+- Customer Job analysis with Sum of Revenue, Interest Earned, and Annual Fees.
 
 ## Report Screenshots:
 ![Screenshot 2024-06-29 190750](https://github.com/user-attachments/assets/2b1fdb14-6381-4dca-8f9f-2d8969cfc56e)
